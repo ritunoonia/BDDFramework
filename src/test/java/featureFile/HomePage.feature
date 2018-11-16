@@ -1,6 +1,6 @@
 Feature: Verify home Page
 As a user
-	should be able to navigate through homepage
+	shold be able to navigate through homepage
 	so that i can see whats on offer
 	
 	Background:
